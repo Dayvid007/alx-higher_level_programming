@@ -6,4 +6,4 @@ while i < 123:
         continue
     if i == 123:
         break
-    print(chr(i).format(), end = "")
+    print(chr(i).format(), end="")
